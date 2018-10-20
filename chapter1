@@ -1,0 +1,15 @@
+
+
+/* Chapter 1 */
+
+clear 
+log using ch1.log, replace t
+set more off
+
+use "C:\Users\user\Desktop\ko_stata.dta"
+
+/*  */
+
+
+
+log close
